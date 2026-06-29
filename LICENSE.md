@@ -1,4 +1,4 @@
-# 
+# Automatic 3D Path Planning AI plugins. Featuring data-augmentation and speech-recognition — optimized for maximum performance.
 
 
 
